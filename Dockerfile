@@ -1,4 +1,4 @@
-FROM debian:bullseye
+FROM debian:buster
 MAINTAINER "S M Y ALTAMASH" "smy.altamash@gmail.com"
 WORKDIR /home/enc
 COPY . /home/enc
